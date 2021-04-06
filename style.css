@@ -1,0 +1,20 @@
+.full-wrapper{
+    width: 500px;
+}
+.bg-img{
+    background-image: url(img/img.jpg);
+    height: 100vh;
+}
+.overlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.con {
+    border: 6px solid #ddd;
+    width: 100%;
+    padding: 20px 150px;
+    background: #939393;
+    box-shadow: 17px 15px #212020;
+}
